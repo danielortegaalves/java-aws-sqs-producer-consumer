@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # java-aws-sqs-producer-consumer
 Exemplo como publicar e consumir em filas com AWS SQS
 =======
@@ -25,4 +24,3 @@ $aws configure
  
 Acessar o localstack dashboard: https://app.localstack.cloud/
 Fazer login com a conta Github ou criar uma conta.
->>>>>>> master
